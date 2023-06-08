@@ -1,13 +1,13 @@
-package com.tendencias.app.Usuarios;
+package com.tendencias.app.proyectofinal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UsuariosApplication {
+public class ProyectoFinalApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UsuariosApplication.class, args);
+		SpringApplication.run(ProyectoFinalApplication.class, args);
 	}
 
 }
