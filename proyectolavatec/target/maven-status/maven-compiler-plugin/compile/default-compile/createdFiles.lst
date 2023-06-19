@@ -1,0 +1,10 @@
+com\tendencias\app\proyectofinal\model\Rol.class
+com\tendencias\app\proyectofinal\controller\UsuarioController.class
+com\tendencias\app\proyectofinal\service\GenericService.class
+com\tendencias\app\proyectofinal\service\GenericServiceImpl.class
+com\tendencias\app\proyectofinal\repository\UsuarioRepository.class
+com\tendencias\app\proyectofinal\service\UsuarioServiceImpl.class
+com\tendencias\app\proyectofinal\model\ItemFactura.class
+com\tendencias\app\proyectofinal\ProyectoFinalApplication.class
+com\tendencias\app\proyectofinal\model\Factura.class
+com\tendencias\app\proyectofinal\model\Usuario.class
